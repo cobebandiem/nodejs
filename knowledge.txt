@@ -1,0 +1,25 @@
+Bài 2:
+-HTTP protocol là cách thức mà website của bạn được truyền tải qua internet.
+Bài 3:
+- SEO là tăng khả năng tìm kiếm của website
+- Server side rendering: mã code được trả về trực tiếp từ trên server
+- Client side rendering: mã code trả về trống và từ đó thực thi lấy code về tiếp.
+Bài 5:
+- node.js is a Javascript runtime built on Chrome's V8 Javascript engine( JS engine là thằng thông
+dịch cho JS chạy trên trình duyệt).
+- Terminal: là cửa sổ giúp thao tác dòng lệnh trên đây.
+- npm là node package manage được coi là một gói, thư viện.
+- package-lock sẽ là nơi lưu chữ chi tiết hơn package, nơi đây sẽ lưu trữ các thông
+tin liên quan đến các thông tin đến thư viện đã cài đặt phụ thuộc vào.
+
+
+
+
+
+
+
+
+
+
+
+
